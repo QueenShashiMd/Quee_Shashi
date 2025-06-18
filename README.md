@@ -1,13 +1,12 @@
-# 🤖 Manu-MD WA Bot V7 ( With Full Buttons ) 💗
+# 🤖 𝐐𝐔𝐄𝐄𝐍 𝐒𝐇𝐀𝐒𝐇𝐈 𝐌𝐃 𝐖𝐀 𝐁𝐎𝐓 𝐕1 
 
-## Manu-MD Bot යනු සම්පූර්ණ බටන් රොබෝ කෙනෙකි...❤
+## 𝐐𝐔𝐄𝐄𝐍 𝐒𝐇𝐀𝐒𝐇𝐈 𝐌𝐃 𝐁𝐎𝐓 යනු සුපිරි රොබෝ කෙනෙකි..🥹✨
 
 This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
 
 <div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Manu-MD;Multi+Device+Whatsapp+Bot;Coded+By+Manul+Official" alt="Typing SVG" />
-  </a> 
+  <a href=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7442C&width=435&lines=%F0%9D%90%90%F0%9D%90%94%F0%9D%90%84%F0%9D%90%84%F0%9D%90%8D+%F0%9D%90%92%F0%9D%90%87%F0%9D%90%80%F0%9D%90%92%F0%9D%90%87%F0%9D%90%88-%F0%9D%90%8C%F0%9D%90%83" alt="Typing SVG" />
+  </a>
 </div> 
 
 <div align="center"> 
