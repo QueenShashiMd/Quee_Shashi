@@ -11,7 +11,7 @@ This is a WhatsApp bot built using the Baileys library for group management, inc
 
 <div align="center"> 
   <a href="https://youtube.com/@ManulOfficialTech"> 
-    <img src="https://i.ibb.co/CpqbL2Qb/Manul-Ofc-X.jpg" alt="Queen Shashi-MD WA Bot" height="300" width="500">
+    <img src="https://i.ibb.co/CpqbL2Qb/Manul-Ofc-X.jpg" alt="Queen Shashi-MD WA Bot" height="1000" width="500">
   </a> 
 </div>
 
